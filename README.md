@@ -31,6 +31,7 @@ A proposta é juntar os conceitos de **listas** e **emojis** em HTML, criando um
 Curso completo disponível em:  
 🔗 [Curso de HTML5 e CSS3 - Módulo 1 - Curso em Vídeo](https://www.cursoemvideo.com/curso/html5-css3-modulo1)
 
+
 ---
 
 
